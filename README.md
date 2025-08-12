@@ -1,5 +1,5 @@
 # JinhuaNSICU
-**JinhuaNSICU**  is a single-center, bilingual (Chinese and English), and open shared database focused on neurosurgery patients. This database has been filtered, cleaned, and de-identified, recording a variety of rich clinical information throughout the entire hospital stay of patients admitted to the NSICU. And it can be publicly acquired at the [China National Center for Bioinformation] (https://ngdc.cncb.ac.cn/omix/release/OMIX011033).
+**JinhuaNSICU**  is a single-center, bilingual (Chinese and English), and open shared database focused on neurosurgery patients. This database has been filtered, cleaned, and de-identified, recording a variety of rich clinical information throughout the entire hospital stay of patients admitted to the NSICU. And it can be publicly acquired at the [China National Center for Bioinformation](https://ngdc.cncb.ac.cn/omix/release/OMIX011033).
 
 
 ### Repository Structure
